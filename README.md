@@ -77,5 +77,5 @@ to reproduce the simulation results.
         └── dec_a_by_1.png
 ```
 ## Author
-Ritesh Kumar
+Jasleen Jassal
 
